@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #define Max 10
 
+//Co-authored-by: victordsantoss
+
 void CountingSort(int *v, int size);
 
 int main (){

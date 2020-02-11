@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Co-authored-by: victordsantoss
+
 void mergeSort(int *vector, int left, int right);
 
 int main (){

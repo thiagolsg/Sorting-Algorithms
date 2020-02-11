@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Co-authored-by: victordsantoss
+
 void shellSort (int *vector, int size);
 
 int main (){

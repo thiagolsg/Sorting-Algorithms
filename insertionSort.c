@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Co-authored-by: victordsantoss
+
 void insertionSort (int *vector, int size);
 void exchange (int *a, int *b);
 
